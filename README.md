@@ -1,6 +1,8 @@
 # Bubble paint
 
-Javascript circle packing algorithm to convert photos into bubbles. Es. [Apple](https://github.com/adamantino/BubblePaint/blob/master/apple.PNG?raw=true)
+Javascript circle packing algorithm to convert photos into bubbles. 
+
+![Apple](https://github.com/adamantino/BubblePaint/blob/master/apple.PNG?raw=true)
 
 Inspired on Daniel Shiffman - Animated Circle Packing - "The Coding Train". 
 
