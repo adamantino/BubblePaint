@@ -1,6 +1,6 @@
 # Bubble paint
 
-Javascript circle packing algorithm to convert photos into bubbles [Apple](apple.png)
+Javascript circle packing algorithm to convert photos into bubbles [Apple](https://github.com/adamantino/BubblePaint/blob/master/apple.PNG?raw=true)
 
 Inspired on Daniel Shiffman - Animated Circle Packing - "The Coding Train". 
 
@@ -17,4 +17,4 @@ You'll need to run some  web server software, such as Apache, to access the loca
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/adamantino/BubblePaint/blob/master/LICENSE) file for details
